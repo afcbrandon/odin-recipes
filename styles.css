@@ -3,6 +3,9 @@ header {
 }
 
 ul {
-  display: inline;
   text-align: center;
+}
+
+li {
+  display: inline;
 }
