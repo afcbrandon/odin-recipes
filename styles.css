@@ -4,6 +4,7 @@ body {
 
 header {
   text-align: center;
+  font-size: 30px;
 }
 
 ul {
@@ -12,4 +13,5 @@ ul {
 
 li {
   display: inline;
+  font-size: 20px;
 }
